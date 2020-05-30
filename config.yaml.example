@@ -1,0 +1,5 @@
+# SleepIQ Configuration
+sleepIQUsername: myusername # username for https://sleepiq.sleepnumber.com/#/login
+sleepIQPassword: mypassword # password for https://sleepiq.sleepnumber.com/#/login
+bedStatusPollInterval: 1 # time in seconds to wait in between bed polling attempts to detect end of movement
+BedStatusPollMax: 60 # maximum time in seconds to poll to detect end of movement
